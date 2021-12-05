@@ -53,15 +53,15 @@ You can click the Preview link to take a look at your changes.
 
 # Let's Get Connected !!!
 
-<a href=https://www.facebook.com/mannu.rockss> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/tenor%20(3).gif" width="75" height="75" ></img></a>
+<a href=https://www.facebook.com/mannu.rockss> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/tenor%20(3).gif" width="105" height="75" ></img></a>
 
 <a href=https://www.instagram.com/mannu_jha_> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/tenor.gif" width="105" height="75"></img></a>
 
-<a href=https://www.linkedin.com/in/mannu-jha-8ab4b2157> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/unnamed.gif" width="75" height="75"></img></a>
+<a href=https://www.linkedin.com/in/mannu-jha-8ab4b2157> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/unnamed.gif" width="105" height="75"></img></a>
 
 <a href=mailto:jha.mannu113@gmail.com> <img align="left" src="https://github.com/thesmartyking/thesmartyking/blob/master/gmail.gif" width="75" height="75"></img></a>
 
-<a href=https://medium.com/@jha.mannu113> <img align="left" src="https://miro.medium.com/max/1400/1*652P1AKOUT1QTwswDDu0QA.gif" width="75" height="75"></img></a>
+<a href=https://medium.com/@jha.mannu113> <img align="left" src="https://miro.medium.com/max/1400/1*652P1AKOUT1QTwswDDu0QA.gif" width="105" height="75"></img></a>
 
 <br />
 <br> <br />
